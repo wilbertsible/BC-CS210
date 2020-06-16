@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RockPaperScissor",
+            "request": "launch",
+            "mainClass": "RockPaperScissor",
+            "projectName": "Exercises_ff7bd4df"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SpaceNeedle",
+            "request": "launch",
+            "mainClass": "SpaceNeedle",
+            "projectName": "Exercises_ff7bd4df"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChristmasTree",
+            "request": "launch",
+            "mainClass": "ChristmasTree",
+            "projectName": "Exercises_ff7bd4df"
+        }
+    ]
+}
